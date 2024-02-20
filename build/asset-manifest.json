@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f5238c2.css",
+    "main.js": "/static/js/main.ae84f031.js",
+    "static/js/787.a86796b9.chunk.js": "/static/js/787.a86796b9.chunk.js",
+    "static/media/faded-gray-background-with-paint-brush-texture.jpg": "/static/media/faded-gray-background-with-paint-brush-texture.6cf6afe54fa8b845d958.jpg",
+    "index.html": "/index.html",
+    "main.4f5238c2.css.map": "/static/css/main.4f5238c2.css.map",
+    "main.ae84f031.js.map": "/static/js/main.ae84f031.js.map",
+    "787.a86796b9.chunk.js.map": "/static/js/787.a86796b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5238c2.css",
+    "static/js/main.ae84f031.js"
+  ]
+}
